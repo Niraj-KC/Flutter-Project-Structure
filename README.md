@@ -1,6 +1,6 @@
 # **Rules For Naming**
 
-<h4>**Folder/Directory:**</h4> DemoFolderName
+**Folder/Directory:** DemoFolderName
 
 **Flutter UI File:** DemoClassName.\* (file name same as class name)
 <br>**other file:** demoOtherFileName.\*
