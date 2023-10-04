@@ -2,10 +2,10 @@
 
 **Folder/Directory:** DemoFolderName
 
-**class files:** DemoClassName.\* (file name same as class name)
+**Flutter UI File:** DemoClassName.\* (file name same as class name)\n
 **other file:** demoOtherFileName.\*
 
-**class name:** DemoClassName (in file [DemoClassName.\*])
+**class name:** DemoClassName (in file [DemoClassName.\* or demoClassName.\*])\n
 **function name:** demoFunctionName()
 
 **global constant variable:** DEMO_GLOBAL_VAR
@@ -14,18 +14,19 @@
 # Project Structure
 
 #### lib
+
 - Models
 - Screens
-    - Auth
-    - UserType1
-        - Home.dart
-    - UserType2
-        - Home.dart
-    - SplashScreen.dart
+  - Auth
+  - UserType1
+    - Home.dart
+  - UserType2
+    - Home.dart
+  - SplashScreen.dart
 - Services
-    - Auth
+  - Auth
 - Utils
-    - CustomWidgets
-    - APIHelper.dart
-    - constant.dart
+  - CustomWidgets
+  - APIHelper.dart
+  - constant.dart
 - main.dart
