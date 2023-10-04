@@ -9,7 +9,7 @@
 <br>**function name:** demoFunctionName()
 
 **global constant variable:** DEMO_GLOBAL_VAR
-**class and function variable:** demoVar
+<br>**class and function variable:** demoVar
 
 # Project Structure
 
