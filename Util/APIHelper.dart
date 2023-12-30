@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class APIHelper{
   // ignore: constant_identifier_names
-  static const String BASE_URI = "http://172.20.10.3:8070/";
+  static const String BASE_URI = "http://";
 
   static Future post(
       String uri,
